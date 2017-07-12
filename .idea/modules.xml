@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringWind/SpringWind.iml" filepath="$PROJECT_DIR$/SpringWind/SpringWind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus-spring-boot/mybatisplus-spring-boot.iml" filepath="$PROJECT_DIR$/mybatisplus-spring-boot/mybatisplus-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus-spring-mvc/mybatisplus-spring-mvc.iml" filepath="$PROJECT_DIR$/mybatisplus-spring-mvc/mybatisplus-spring-mvc.iml" />
+    </modules>
+  </component>
+</project>
